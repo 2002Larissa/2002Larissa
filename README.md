@@ -4,11 +4,15 @@
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: I love books, animals and tecnology 
 
-- <div style="display: inline_block"><br> 
+
+  <div style="display: inline_block"><br> 
   <a href="https://https://github.com/2002Larissa">
-  <img align="center" alt="Larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Larissa-Js" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Larissa-HTML" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Larissa-CSS" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <div> 
@@ -20,3 +24,4 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2002larissa&show_icons=true&theme=radical)
+
