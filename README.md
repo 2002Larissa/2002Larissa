@@ -1,6 +1,6 @@
 ### Hi, I'm Larissa Santos 
 
-- 💻 I’m study HTML, CSS and Javascript 
+- 💻 I study HTML, CSS and Javascript 
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: I love books, animals and tecnology 
 
