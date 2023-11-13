@@ -1,6 +1,6 @@
 ### Hi, I'm Larissa Santos 
 
-- 💻 I’m study Java 
+- 💻 I’m study Java and Javascript 
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: ...
 
