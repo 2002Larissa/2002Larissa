@@ -1,17 +1,17 @@
 ### Hi, I'm Larissa Santos 
 
-- 💻 I study HTML, CSS and Javascript 
+- 💻 I study Java, HTML, CSS and Javascript 
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: I love books, animals and tecnology 
+- ⚡ Fun facts: I love books, animals, tecnology and Imagine Dragons
 
 
   <div style="display: inline_block"><br> 
   <a href="https://https://github.com/2002Larissa">
   <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="[Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="[Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
