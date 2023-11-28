@@ -2,7 +2,7 @@
 
 - 💻 I study Java, HTML, CSS and Javascript 
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun facts: I love books, animals, tecnology and Imagine Dragons
+- ⚡ Fun facts: I love books, music and tecnology
 
 
   <div style="display: inline_block"><br> 
