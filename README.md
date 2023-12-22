@@ -3,7 +3,7 @@
 - 💻 I'm a persistent student of Java, Javascript, CSS and HTML
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I love books, music and tecnology
-- 🍃 Trying to be bette
+- 🍃 Trying to be better
 
 <div> 
     <div style="display: inline_block"><br> 
