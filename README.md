@@ -25,6 +25,6 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2002larissa&show_icons=true&theme=radical)
+
 
 
