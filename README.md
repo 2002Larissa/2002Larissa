@@ -16,6 +16,8 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="40" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div><br>
     
   <a href="https://instagram.com/llarissa2002" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
