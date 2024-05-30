@@ -19,8 +19,13 @@
   <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="40" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div><br>
+</div>
+      <br>
     
   <a href="https://instagram.com/llarissa2002" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/zP6y9MSv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=White" target="_blank"></a>
