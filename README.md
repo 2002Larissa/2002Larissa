@@ -21,8 +21,6 @@
   <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
       <br>
