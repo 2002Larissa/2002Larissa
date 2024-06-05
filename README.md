@@ -2,7 +2,7 @@
 
 - 💻 Full-Stack Developer in development
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts: I love tecnology, music and books
+- ⚡ Fun facts: I love tecnology, music and book
 - 🍃 Trying to be better
 
 <div> 
