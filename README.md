@@ -2,8 +2,7 @@
 
 - 💻 Full-Stack Developer in development
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts: I love tecnology, music and books
-- 🍃 Trying to be better
+- 🍃 Writing one line of code at a time
 
 <div> 
     <div style="display: inline_block"><br> 
