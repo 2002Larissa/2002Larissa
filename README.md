@@ -7,21 +7,21 @@
 <div> 
     <div style="display: inline_block"><br> 
   <a href="https://https://github.com/2002Larissa"> 
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="30" width="40" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="34" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="34" width="41" 
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="34" width="41" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="28" width="40"
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="28" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa/Front-end)" height="40" width="40"
+  <img align="center" alt="[2002Larissa/Front-end](https://github.com/2002Larissa)" height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 </div>
