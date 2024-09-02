@@ -1,7 +1,7 @@
 ### Hi, I'm Larissa Santos 
 
-- 💻 Full-Stack Developer in development
-- 😄 Pronouns: She/Her
+- 💻 Software Engineer at Banco BV
+- 😄 I love Tecnology, romance books and music
 - 🍃 Writing one line of code at a time
 
 <div> 
