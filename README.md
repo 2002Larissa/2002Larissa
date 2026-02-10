@@ -1,6 +1,6 @@
 ### Hi, I'm Larissa Santos 
 
-- 💻 Systems Analyst at Banco BV
+- 💻 Systems Analyst
 - 😄 I love Tecnology, romance books and music
 - 🍃 Writing one line of code at a time
 
