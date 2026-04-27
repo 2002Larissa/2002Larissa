@@ -32,14 +32,9 @@ Sou apaixonada por tecnologia e pela criação de soluções que conectam o mund
 
 ---
 
-### 📬 Vamos nos conectar!
+### 📬 Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Meu_Portfólio-121212?style=for-the-badge&logo=vercel&logoColor=white)](LINK-DO-SEU-PORTFOLIO-AQUI)
-
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-</div>
